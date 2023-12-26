@@ -12,7 +12,7 @@ Verily, it is an expedition of pure exploration, where the only aspiration is th
 
 For this wondrous odyssey, we embark with three delightful vehicles, chariots of innovation: [Ocaml](https://ocaml.org/), [Rust](https://www.rust-lang.org/), [Zig](https://ziglang.org/)... each bearing its own flair and enchantment. With these, we shall chart our course through the uncharted.
 
-Ah, the mysteries that await, the uncharted territories we shall traverse! Join us, dear reader, as we unravel the unknown and set sail toward the unexplored horizons of possibility...
+Ah, the mysteries that await, the uncharted territories we shall traverse! Join us, dear reader, as we unravel the unknown and set sail toward the [unexplored horizons of possibility](https://github.com/gthvn1/monkey_islang)...
 
 
 <!--

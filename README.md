@@ -1,4 +1,5 @@
-### Kernel Lab
+### DriverFoundry
+#### A nod to working with Linux block devices and "crafting" our own drivers.
 
 <img align="left" width="300" src="https://github.com/gthvn1/kernelcraft/raw/master/images/kernelcraft.png">
 

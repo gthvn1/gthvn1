@@ -1,19 +1,14 @@
-### Monkey Islang
+### Kernel Lab
 
+<img align="left" width="300" src="https://github.com/gthvn1/kernelcraft/raw/master/images/kernelcraft.png">
 
-<img align="left" width="100" height="100" src="https://monkeylang.org/images/logo.png">
+ 🔭 In the vast, unexplored depths of the digital cosmos, where electrons hum and invisible forces drive the machinery of modern life, lies a world few have dared to venture—a world of kernels, devices, and drivers, whose intricate workings govern the very fabric of our technological existence.
 
-Ahoy and welcome, dear voyager, to the shores of Monkey Islang! A curious haven nestled amidst the vast expanse of the digital ocean. Islang, reminiscent of the tales spun around the mystical Island, hosts within its embrace two grand endeavors tethered to the legendary [MonkeyLang](https://monkeylang.org).
+⚡ It is into this realm that KernelCraft embarks, a grand voyage of discovery not unlike the intrepid journeys chronicled by explorers of old. But this is no oceanic voyage nor a subterranean descent; it is a quest into the very heart of the machine itself. From the towering heights of the Linux kernel to the mysterious workings of virtual devices, our expedition will chart a course through uncharted territories, guided by tools of ingenuity: Buildroot, to forge a living root from the source, and QEMU, a virtual ship of boundless possibilities.
 
----
+🌱 In this project, the curious adventurer will set forth to uncover the secrets of block devices and Virtio—those enigmatic mechanisms that power the unseen engines of modern systems. Each experiment, each driver built, will be a step closer to unlocking the mysteries of how machine and code intertwine, a frontier of knowledge waiting to be tamed.
 
-These pursuits unfold as an ersatz of a kernel, akin to the core of an enigmatic engine, and an interpreter—an ethereal conduit to the realms of syntax and semantics.
-Verily, it is an expedition of pure exploration, where the only aspiration is the ceaseless unraveling of these twin universes.
-
-For this wondrous odyssey, we embark with three delightful vehicles, chariots of innovation: [Ocaml](https://ocaml.org/), [Rust](https://www.rust-lang.org/), [Zig](https://ziglang.org/)... each bearing its own flair and enchantment. With these, we shall chart our course through the uncharted.
-
-Ah, the mysteries that await, the uncharted territories we shall traverse! Join us, dear reader, as we unravel the unknown and set sail toward the [unexplored horizons of possibility](https://github.com/gthvn1/monkey_islang)...
-
+Thus, KernelCraft begins its expedition into the unknown—where the goal is not simply to understand, but to master the devices that shape our digital world. In this odyssey, we shall learn how they live, how they breathe, and ultimately, how they obey our command.
 
 <!--
 **gthvn1/gthvn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

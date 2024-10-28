@@ -1,3 +1,4 @@
+<!--
 ### DriverFoundry
 #### A nod to working with Linux block devices and "crafting" our own drivers.
 
@@ -11,12 +12,12 @@
 
 Thus, KernelCraft begins its expedition into the unknown—where the goal is not simply to understand, but to master the devices that shape our digital world. In this odyssey, we shall learn how they live, how they breathe, and ultimately, how they obey our command.
 
-<!--
 **gthvn1/gthvn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on things related to storage 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -24,4 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

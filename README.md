@@ -15,9 +15,9 @@ Thus, KernelCraft begins its expedition into the unknown—where the goal is not
 **gthvn1/gthvn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 
-- 🔭 I’m currently working on things related to [Xen](https://xenproject.org/) & storage 
+
+- 🔭 I’m currently working on things related to [Xen](https://xenproject.org/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<img align="left" width="300" src="https://downloads.xenproject.org/Branding/Mascots/2025-Xen-Panda-Helmet.png">
+
+My current work focuses on the [XAPI toolstack](https://xapi-project.github.io/new-docs/), the management layer for the Xen hypervisor, including its APIs, orchestration capabilities, and integration with storage and networking subsystems.

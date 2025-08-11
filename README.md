@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 
 <img align="left" width="300" src="https://downloads.xenproject.org/Branding/Mascots/2025-Xen-Panda-Helmet.png">
 
-# About Me
+### About Me
 I work on the [XAPI toolstack](https://xapi-project.github.io/new-docs/), the management layer for the Xen hypervisor.
 
-# Key Resources
-## XAPI (Upstream)
+### Key Resources
+#### XAPI (Upstream)
 - [Source Code](https://github.com/xapi-project/xen-api) — main development repository.
 - [Design Docs](https://xapi-project.github.io/new-docs/) — updated architectural and API documentation.
 
-## XCP-ng
+#### XCP-ng
 - [XCP-ng RPMs Repo](https://github.com/xcp-ng-rpms/xapi/) — RPM packaging sources.
 
-## OCaml (Language of XAPI)
+#### OCaml (Language of XAPI)
 - [Practical OCaml](https://dev.to/yawaramin/practical-ocaml-314j#the-whirlwind-tour) — beginner-friendly introduction.  
 - [OCaml API Reference](https://ocaml.org/manual/5.3/api/index.html) — official API documentation.  
 - [Standard Library (v5.3)](https://ocaml.org/manual/5.3/stdlib.html) — core library reference.  

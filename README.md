@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img align="left" width="300" src="https://downloads.xenproject.org/Branding/Mascots/2025-Xen-Panda-Helmet.png">
 
 ### About Me
-I work on the [XAPI toolstack](https://xapi-project.github.io/new-docs/), the management layer for the [Xen project](https://xenproject.org/).
+I work on the [XAPI](https://xapi-project.github.io/new-docs/), a management toolstack for the [Xen Project](https://xenproject.org/).
 
 ### Key Resources
 #### XAPI (Upstream)

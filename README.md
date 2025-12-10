@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="200" src="https://downloads.xenproject.org/Branding/Mascots/2025-Xen-Panda-Helmet.png">
+<img align="left" width="400" src="https://downloads.xenproject.org/Branding/Mascots/2025-Xen-Panda-Data-Center-Transparent.png">
 
 ### About Me
 I work on [XAPI](https://xapi-project.github.io/new-docs/), a management toolstack for the [Xen Project](https://xenproject.org/).
@@ -39,6 +39,8 @@ I work on [XAPI](https://xapi-project.github.io/new-docs/), a management toolsta
 
 #### XCP-ng
 - [XCP-ng RPMs Repo](https://github.com/xcp-ng-rpms/xapi/) — RPM packaging sources.
+
+---
 
 #### OCaml (Language of XAPI)
 - [OCaml Programming](https://cs3110.github.io/textbook/cover.html) — Correct + Efficient + Beautiful

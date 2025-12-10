@@ -2,7 +2,7 @@
 ### DriverFoundry
 #### A nod to working with Linux block devices and "crafting" our own drivers.
 
-<img align="left" width="300" src="https://github.com/gthvn1/kernelcraft/raw/master/images/kernelcraft.png">
+<img align="left" width="150" src="https://github.com/gthvn1/kernelcraft/raw/master/images/kernelcraft.png">
 
  🔭 In the vast, unexplored depths of the digital cosmos, where electrons hum and invisible forces drive the machinery of modern life, lies a world few have dared to venture—a world of kernels, devices, and drivers, whose intricate workings govern the very fabric of our technological existence.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="300" src="https://downloads.xenproject.org/Branding/Mascots/2025-Xen-Panda-Helmet.png">
+<img align="left" width="200" src="https://downloads.xenproject.org/Branding/Mascots/2025-Xen-Panda-Helmet.png">
 
 ### About Me
 I work on [XAPI](https://xapi-project.github.io/new-docs/), a management toolstack for the [Xen Project](https://xenproject.org/).

@@ -45,5 +45,4 @@ I work on [XAPI](https://xapi-project.github.io/new-docs/), a management toolsta
 #### OCaml (Language of XAPI)
 - [OCaml Programming](https://cs3110.github.io/textbook/cover.html) — Correct + Efficient + Beautiful
 - [Practical OCaml](https://dev.to/yawaramin/practical-ocaml-314j#the-whirlwind-tour) — beginner-friendly introduction.  
-- [OCaml API Reference](https://ocaml.org/manual/5.3/api/index.html) — official API documentation.  
-- [Standard Library (v5.3)](https://ocaml.org/manual/5.3/stdlib.html) — core library reference.  
+- [The OCaml system](https://ocaml.org/manual) — official manual
